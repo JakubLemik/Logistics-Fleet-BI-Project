@@ -17,6 +17,7 @@ Kompleksowy system analityczny klasy **Business Intelligence** zaprojektowany dl
 
 ### 1. Model Danych w Power BI
 Poniższy schemat przedstawia relacje między tabelami wymiarów i faktów w Power BI:
+![Model Danych w Power BI](screenshots/screenshot_of_model_in_powerbi.png)
 
 ### 2. Logistyka i Obiekty
 Przegląd zdarzeń logistycznych, mapy przestojów oraz prognoza opóźnień na kolejne 6 miesięcy:
